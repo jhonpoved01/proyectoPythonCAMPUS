@@ -1,0 +1,18 @@
+[
+  {
+    "id": 9876,
+    "nombre": "stiven",
+    "apellidos": "poveda",
+    "direccion": "cra.24",
+    "acudiente": "julieth",
+    "edad": 28,
+    "email": "hkjfj.1343",
+    "telefono": "1234567",
+    "estado": "aprobado",
+    "notas_prueba": {
+      "teorica": 80.0,
+      "practica": 80.0,
+      "promedio": 80.0
+    }
+  }
+]

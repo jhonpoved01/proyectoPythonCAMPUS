@@ -1,0 +1,14 @@
+[
+  {
+    "nombre": "apolo",
+    "capacidad_maxima": 33,
+    "capacidad_actual": 0,
+    "ruta_asignada": "java"
+  },
+  {
+    "nombre": "sputnik",
+    "capacidad_maxima": 33,
+    "capacidad_actual": 0,
+    "ruta_asignada": "nodejs"
+  }
+]
